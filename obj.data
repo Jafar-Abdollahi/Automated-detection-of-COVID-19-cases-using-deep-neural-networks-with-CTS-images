@@ -1,0 +1,5 @@
+classes = 2
+train  = /content/drive/My\ Drive/objectdetection/train.txt
+valid  = /content/drive/My\ Drive/objectdetection/test.txt
+names = /content/drive/My\ Drive/objectdetection/obj.names
+backup =/content/drive/My\ Drive/objectdetection/backup/

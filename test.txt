@@ -1,0 +1,2084 @@
+/content/drive/My Drive/objectdetection/images/img/Covid-19(1).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(10).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(11).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(12).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(13).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(14).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(15).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(16).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(17).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(18).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(19).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(2).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(20).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(21).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(22).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(23).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(24).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(25).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(26).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(27).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(28).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(29).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(3).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(30).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(31).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(32).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(33).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(34).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(35).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(36).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(37).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(38).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(39).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(4).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(40).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(5).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(6).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(7).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(8).jpg
+/content/drive/My Drive/objectdetection/images/img/Covid-19(9).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(1).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(10).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(11).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(12).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(13).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(14).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(15).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(16).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(17).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(18).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(19).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(2).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(20).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(21).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(22).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(23).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(24).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(25).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(26).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(27).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(28).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(29).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(3).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(30).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(31).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(32).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(33).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(34).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(35).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(36).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(37).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(38).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(39).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(4).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(40).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(41).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(42).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(43).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(44).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(5).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(6).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(7).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(8).jpg
+/content/drive/My Drive/objectdetection/images/img/pneumonia(9).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3509).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3510).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3511).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3512).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3513).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3514).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3515).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3517).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3518).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3519).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3520).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3521).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3522).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3523).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3524).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3525).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3526).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3527).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3528).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3529).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3530).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3531).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3532).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3533).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3534).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3535).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3536).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3537).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3538).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3539).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3540).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3541).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3542).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3543).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3544).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3545).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3546).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3547).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3548).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3549).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3550).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3551).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3552).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3553).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3554).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3555).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3556).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3557).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3558).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3559).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3560).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3561).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3562).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3563).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3564).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3565).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3566).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3571).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3572).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3573).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3574).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3575).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3576).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3577).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3578).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3579).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3580).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3581).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3582).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3583).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3584).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3585).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3586).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3587).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3588).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3589).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3590).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3591).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3592).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3593).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3594).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3595).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3596).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3597).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3598).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3599).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3600).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3601).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3602).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3603).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3604).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3605).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3606).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3610).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3611).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3612).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3613).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3614).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3615).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3616).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3617).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3618).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3619).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3620).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3621).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3622).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3623).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3624).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3625).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3626).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3627).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3628).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3629).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3630).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3631).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3632).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3633).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3634).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3636).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3637).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3638).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3639).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3640).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3641).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3642).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3646).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3647).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3648).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3649).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3650).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3651).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3656).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3657).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3658).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3659).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3660).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3661).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3662).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3664).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3665).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3666).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3667).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3669).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3670).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3672).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3673).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3674).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3676).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3677).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3680).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3681).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3682).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3683).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3686).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3687).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3688).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3689).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3690).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3691).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3692).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3693).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3694).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3695).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3697).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3699).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3700).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3701).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3702).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3706).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3707).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3708).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3709).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3710).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3711).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3712).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3713).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3714).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3715).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3716).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3717).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3718).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3719).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3720).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3721).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3722).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3723).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3724).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3725).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3726).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3727).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3728).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3729).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3730).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3731).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3732).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3738).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3740).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3741).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3742).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3743).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3744).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3745).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3746).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3747).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3748).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3749).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3750).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3751).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3752).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3753).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3754).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3755).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3756).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3758).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3759).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3760).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3761).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3762).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3763).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3764).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3765).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3769).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3770).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3771).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3772).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3773).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3774).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3775).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3776).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3777).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3778).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3779).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3780).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3781).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3782).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3783).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3784).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3785).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3786).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3787).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3790).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3791).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3792).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3793).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3794).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3795).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3799).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3800).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3801).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3802).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3803).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3804).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3807).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3808).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3809).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3810).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3811).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3812).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3818).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3819).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3820).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3823).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3824).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3826).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3827).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3829).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3837).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3838).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3839).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3841).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3842).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3843).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3844).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3845).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3846).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3847).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3848).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3849).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3850).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3851).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3852).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3853).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3854).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3855).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3856).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3857).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3858).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3859).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3861).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3862).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3863).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3864).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3866).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3869).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3870).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3871).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3872).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3873).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3874).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3875).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3878).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3879).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3880).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3881).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3882).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3883).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3884).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3886).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3887).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3888).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3890).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3893).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3894).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3895).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3896).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3906).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3907).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3908).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3909).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3910).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3911).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3913).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3914).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3916).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3917).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3918).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3919).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3920).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3921).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3922).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3926).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3927).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3928).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3929).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3930).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3931).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3932).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3933).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3934).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3935).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3936).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3937).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3938).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3939).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3940).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3941).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3942).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3943).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3944).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3945).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3946).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3947).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3948).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3949).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3950).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3951).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3952).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3953).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3954).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3957).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3958).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3959).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3960).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3961).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3962).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3970).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3971).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3972).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3973).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3974).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3975).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3976).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3977).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3986).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(3987).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4001).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4004).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4005).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4006).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4007).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4008).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4009).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4010).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4011).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4012).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4013).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4014).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4015).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4016).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4017).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4018).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4019).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4020).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4021).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4022).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4023).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4024).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4025).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4026).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4027).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4028).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4029).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4030).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4031).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4032).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4033).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4034).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4036).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4037).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4038).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4040).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4042).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4044).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4046).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4047).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4048).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4049).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4052).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4053).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4054).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4055).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4056).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4057).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4058).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4059).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4060).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4061).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4062).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4063).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4064).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4065).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4066).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4067).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4068).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4069).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4070).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4071).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4072).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4073).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4074).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4075).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4076).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4077).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4078).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4079).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4080).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4081).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4082).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4083).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4084).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4085).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4086).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4087).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4088).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4089).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4090).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4091).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4092).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4094).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4099).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4100).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4101).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4102).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4103).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4104).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4105).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4106).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4107).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4108).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4109).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4110).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4111).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4112).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4113).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4114).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4115).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4116).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4117).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4118).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4119).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4120).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4121).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4122).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4123).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4124).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4125).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4126).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4127).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4128).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4129).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4130).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4131).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4132).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4133).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4134).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4135).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4136).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4137).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4138).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4139).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4143).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4145).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4148).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4152).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4153).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4156).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4162).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4165).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4167).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4173).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4175).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4180).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4181).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4184).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4185).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4186).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4187).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4188).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4189).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4190).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4191).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4192).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4194).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4195).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4196).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4197).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4199).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4200).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4202).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4203).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4208).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4209).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4210).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4211).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4212).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4213).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4214).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4217).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4218).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4219).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4220).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4221).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4222).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4223).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4224).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4225).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4226).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4227).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4228).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4229).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4230).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4231).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4232).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4233).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4234).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4235).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4236).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4237).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4238).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4239).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4240).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4241).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4242).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4243).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4244).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4245).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4246).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4247).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4248).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4249).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4250).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4251).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4252).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4253).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4254).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4255).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4256).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4257).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4258).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4259).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4260).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4261).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4262).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4263).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4265).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4266).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4267).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4268).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4269).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4270).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4271).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4274).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4275).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4278).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4282).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4284).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4285).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4286).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4287).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4288).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4289).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4290).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4291).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4292).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4293).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4294).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4295).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4296).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4297).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4298).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4300).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4301).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4302).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4303).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4316).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4317).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4318).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4321).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4322).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4323).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4324).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4325).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4326).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4327).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4328).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4329).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4330).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4331).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4332).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4333).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4334).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4335).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4336).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4337).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4338).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4339).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4340).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4341).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4342).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4343).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4344).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4345).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4350).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4351).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4352).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4353).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4354).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4355).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4357).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4358).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4360).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4361).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4362).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4363).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4364).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4365).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4366).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4367).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4368).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4369).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4370).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4371).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4372).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4373).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4374).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4375).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4376).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4377).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4378).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4379).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4380).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4381).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4382).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4383).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4384).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4385).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4386).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4387).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4388).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4399).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4400).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4401).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4402).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4403).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4404).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4405).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4406).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4409).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4410).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4411).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4412).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4413).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4414).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4415).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4416).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4417).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4418).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4419).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4420).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4421).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4422).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4423).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4424).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4425).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4426).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4427).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4428).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4429).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4430).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4431).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4432).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4433).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4434).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4437).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4438).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4439).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4440).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4443).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4449).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4450).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4451).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4452).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4453).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4454).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4455).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4456).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4458).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4459).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4460).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4461).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4462).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4463).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4464).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4465).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4466).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4467).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4468).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4469).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4470).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4471).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4472).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4473).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4474).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4475).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4476).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4477).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4478).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4479).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4480).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4481).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4482).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4483).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4485).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4488).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4501).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4502).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4504).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4505).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4530).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4531).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4532).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4533).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4534).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4547).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4548).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4549).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4550).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4551).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4552).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4555).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4556).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4557).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4558).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4559).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4560).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4561).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4562).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4563).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4566).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4567).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4568).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4569).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4570).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4574).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4575).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4576).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4577).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4578).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4579).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4580).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4581).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4582).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4583).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4584).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4585).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4586).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4593).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4594).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4595).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4596).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4597).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4598).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4599).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4600).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4601).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4602).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4603).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4604).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4605).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4606).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4607).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4608).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4609).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4612).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4613).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4614).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4615).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4616).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4617).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4618).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4619).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4620).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4621).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4622).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4624).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4625).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4626).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4627).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4628).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4629).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4630).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4631).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4636).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4637).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4644).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4645).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4650).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4651).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4652).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4653).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4657).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4658).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4659).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4660).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4661).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4662).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4663).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4664).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4669).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4671).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4675).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4676).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4677).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4678).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4695).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4696).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4697).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4698).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4699).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4700).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4702).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4704).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4705).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4708).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4709).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4710).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4711).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4717).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4718).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4719).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4720).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4721).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4725).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4726).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4727).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4728).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4729).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4730).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4731).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4732).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4733).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4734).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4735).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4736).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4737).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4738).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4739).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4740).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4741).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4742).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4743).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4744).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4745).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4746).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4747).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4748).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4749).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4751).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4752).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4753).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4754).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4755).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4756).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4757).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4759).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4760).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4761).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4765).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4766).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4767).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4768).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4773).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4780).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4781).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4782).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4784).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4785).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4786).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4789).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4790).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4791).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4792).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4793).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4794).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4795).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4796).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4802).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4803).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4804).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4806).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4807).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4817).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4818).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4819).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4820).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4821).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4822).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4823).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4824).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4825).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4826).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4827).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4828).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4830).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4831).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4832).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4833).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4834).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4835).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4836).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4837).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4838).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4839).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4840).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4841).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4842).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4843).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4844).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4845).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4846).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4847).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4848).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4849).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4850).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4851).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4852).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4853).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4854).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4855).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4856).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4857).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4858).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4859).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4860).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4861).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4862).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4863).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4866).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4867).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4868).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4869).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4870).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4871).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4875).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4876).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4877).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4878).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4881).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4882).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4883).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4884).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4885).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4886).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4890).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4891).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4892).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4893).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4894).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4895).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_Covid(4896).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3886).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3887).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3888).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3889).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3890).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3891).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3892).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3893).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3894).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3895).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3896).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3897).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3898).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3899).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3900).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3901).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3902).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3903).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3904).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3905).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3906).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3907).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3908).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3909).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3910).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3911).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3912).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3913).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3914).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3915).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3916).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3917).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3918).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3919).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3921).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3922).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3923).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3924).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3925).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3926).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3927).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3928).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3929).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3930).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3931).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3932).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3933).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3934).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3936).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3938).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3939).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3940).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3941).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3942).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3943).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3944).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3945).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3946).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3947).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3948).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3949).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3950).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3951).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3952).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3953).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3964).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3965).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3966).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3967).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3968).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3969).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3970).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3971).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3972).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3973).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3974).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3975).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3976).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3977).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3978).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3979).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3980).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3981).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3982).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3983).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3984).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3985).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3986).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3987).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3988).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3989).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3990).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3991).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3992).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3993).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3994).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3995).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3996).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3997).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3998).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (3999).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4000).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4001).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4002).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4006).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4007).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4008).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4009).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4010).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4011).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4012).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4013).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4014).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4015).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4016).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4017).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4018).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4019).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4020).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4021).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4022).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4023).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4024).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4025).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4026).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4027).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4028).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4029).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4030).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4031).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4032).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4033).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4034).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4035).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4036).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4037).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4042).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4043).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4044).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4045).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4046).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4049).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4050).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4051).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4052).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4053).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4054).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4056).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4057).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4058).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4059).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4061).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4062).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4064).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4065).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4066).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4067).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4068).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4069).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4070).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4071).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4072).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4073).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4074).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4075).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4076).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4100).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4101).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4102).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4103).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4104).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4105).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4106).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4108).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4111).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4112).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4114).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4115).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4119).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4131).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4132).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4135).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4136).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4137).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4141).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4142).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4146).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4152).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4153).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4154).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4156).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4157).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4158).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4159).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4160).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4161).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4162).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4163).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4164).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4166).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4170).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4172).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4174).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4175).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4176).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4178).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4179).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4183).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4184).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4185).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4186).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4188).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4189).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4190).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4191).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4192).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4193).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4194).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4195).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4196).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4197).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4198).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4199).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4200).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4201).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4202).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4203).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4204).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4205).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4206).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4207).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4208).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4209).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4210).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4212).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4213).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4214).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4215).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4216).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4217).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4218).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4233).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4234).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4235).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4236).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4237).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4238).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4239).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4240).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4241).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4242).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4243).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4244).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4245).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4246).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4247).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4248).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4249).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4250).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4251).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4252).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4253).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4254).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4255).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4256).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4257).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4258).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4259).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4260).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4261).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4263).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4264).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4286).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4289).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4292).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4301).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4302).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4304).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4306).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4307).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4308).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4309).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4310).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4311).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4312).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4313).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4315).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4316).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4318).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4319).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4320).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4321).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4322).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4323).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4324).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4326).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4327).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4328).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4329).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4330).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4331).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4332).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4333).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4334).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4335).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4336).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4337).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4338).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4339).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4340).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4341).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4342).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4343).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4344).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4345).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4346).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4347).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4348).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4349).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4350).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4366).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4367).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4368).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4369).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4370).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4371).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4374).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4375).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4376).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4377).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4378).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4379).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4380).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4381).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4382).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4383).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4384).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4385).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4386).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4387).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4393).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4397).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4398).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4399).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4400).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4401).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4402).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4403).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4404).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4405).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4406).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4407).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4408).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4409).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4410).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4411).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4412).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4413).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4414).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4415).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4416).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4417).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4418).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4419).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4420).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4421).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4422).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4423).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4424).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4425).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4426).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4427).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4428).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4429).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4430).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4431).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4432).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4433).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4434).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4435).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4436).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4437).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4438).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4439).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4440).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4441).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4442).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4443).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4444).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4445).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4449).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4450).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4456).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4467).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4468).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4477).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4478).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4479).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4480).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4489).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4490).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4491).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4492).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4495).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4497).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4499).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4500).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4501).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4502).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4503).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4508).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4509).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4510).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4511).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4512).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4513).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4514).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4515).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4516).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4517).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4518).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4519).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4520).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4521).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4522).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4523).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4535).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4536).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4537).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4538).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4539).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4540).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4541).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4542).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4543).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4544).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4545).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4546).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4547).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4548).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4549).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4550).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4551).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4552).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4553).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4554).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4555).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4556).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4557).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4558).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4559).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4560).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4561).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4562).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4575).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4576).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4580).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4581).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4582).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4584).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4597).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4598).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4599).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4600).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4601).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4602).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4603).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4605).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4606).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4607).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4608).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4609).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4610).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4611).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4612).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4613).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4614).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4615).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4616).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4617).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4618).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4619).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4620).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4621).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4622).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4623).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4624).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4625).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4626).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4627).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4628).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4629).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4630).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4631).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4632).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4633).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4634).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4635).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4636).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4637).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4638).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4639).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4640).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4641).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4642).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4643).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4644).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4645).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4646).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4647).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4648).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4649).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4650).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4651).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4652).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4653).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4654).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4655).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4656).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4663).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4664).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4665).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4666).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4667).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4668).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4669).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4670).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4671).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4672).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4673).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4674).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4675).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4676).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4677).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4678).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4679).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4680).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4681).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4682).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4683).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4684).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4685).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4686).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4687).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4688).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4689).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4690).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4691).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4713).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4714).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4715).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4716).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4725).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4726).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4727).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4728).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4729).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4730).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4731).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4732).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4733).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4734).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4735).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4740).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4741).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4742).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4759).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4760).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4761).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4762).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4763).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4764).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4765).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4766).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4767).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4768).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4769).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4770).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4771).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4772).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4773).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4774).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4775).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4776).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4777).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4778).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4779).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4780).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4781).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4782).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4783).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4784).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4785).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4786).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4787).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4788).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4789).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4790).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4791).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4792).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4793).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4794).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4795).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4809).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4810).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4811).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4812).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4813).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4814).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4815).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4816).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4817).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4818).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4819).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4820).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4821).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4822).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4823).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4824).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4825).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4826).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4827).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4828).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4829).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4830).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4831).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4832).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4833).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4834).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4835).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4836).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4837).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4841).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4842).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4843).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4844).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4845).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4846).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4847).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4848).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4850).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4888).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4890).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4895).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4896).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4898).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4899).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4900).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4901).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4902).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4903).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4904).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4905).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4906).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4907).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4908).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4909).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4910).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4911).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4912).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4913).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4914).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4915).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4916).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4917).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4919).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4920).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4921).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4922).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4924).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4925).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4926).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4927).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4928).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4929).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4930).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4931).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4932).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4933).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4934).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4935).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4936).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4937).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4938).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4939).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4940).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4941).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4942).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4943).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4944).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4945).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4950).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4951).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4952).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4953).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4954).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4955).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4956).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4957).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4958).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4959).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4975).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4976).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4977).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4978).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4979).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4980).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4981).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4982).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4983).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4984).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4985).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4986).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4987).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4988).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4989).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4990).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4991).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4992).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4995).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4996).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4997).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4998).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (4999).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5000).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5001).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5002).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5003).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5004).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5005).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5006).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5007).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5008).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5009).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5034).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5035).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5038).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5042).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5077).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5078).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5080).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5106).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5107).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5112).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5114).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5118).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5120).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5122).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5125).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5127).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5128).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5131).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5135).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5138).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5150).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5153).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5154).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5160).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5162).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5167).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5168).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5169).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5170).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5171).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5172).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5173).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5174).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5175).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5176).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5177).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5178).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5179).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5180).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5181).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5182).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5183).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5184).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5185).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5204).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5216).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5218).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5219).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5221).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5222).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5223).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5224).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5225).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5226).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5248).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5252).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5268).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5275).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5277).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5280).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5283).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5284).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5285).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5286).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5287).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5288).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5290).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5291).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5292).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5293).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5294).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5295).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5296).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5297).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5298).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5299).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5300).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5301).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5302).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5303).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5304).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5305).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5306).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5307).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5308).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5309).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5310).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5311).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5312).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5313).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5314).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5315).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5316).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5317).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5318).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5323).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5324).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5325).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5326).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5327).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5328).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5329).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5330).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5331).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5332).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5333).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5334).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5335).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5336).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5337).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5338).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5339).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5340).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5341).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5342).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5343).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5344).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5345).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5346).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5347).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5348).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5349).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5350).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5351).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5352).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5353).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5354).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5355).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5356).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5357).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5358).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5359).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5360).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5361).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5362).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5363).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5364).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5365).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5366).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5423).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5424).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5425).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5426).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5427).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5437).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5438).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5441).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5442).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5446).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5449).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5450).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5451).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5452).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5453).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5454).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5455).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5456).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5457).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5458).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5460).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5463).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5464).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5465).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5467).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5468).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5471).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5472).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5473).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5474).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5475).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5476).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5477).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5478).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5479).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5480).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5481).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5482).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5483).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5484).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5511).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5512).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5513).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5515).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5517).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5521).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5522).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5523).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5524).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5525).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5526).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5527).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5528).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5529).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5530).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5531).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5532).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5533).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5534).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5535).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5536).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5537).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5538).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5559).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5560).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5567).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5568).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5571).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5572).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5575).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5576).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5577).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5581).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5582).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5583).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5584).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5585).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5586).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5587).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5588).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5589).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5590).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5591).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5592).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5593).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5594).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5595).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5619).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5620).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5621).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5622).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5623).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5624).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5625).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5626).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5627).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5628).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5629).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5630).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5631).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5632).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5633).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5634).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5635).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5636).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5637).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5638).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5639).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5640).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5641).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5642).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5643).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5644).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5645).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5646).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5647).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5648).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5649).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5650).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5651).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5652).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5653).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5654).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5655).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5656).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5680).jpg
+/content/drive/My Drive/objectdetection/images/img/Train_pneumonia (5682).jpg
