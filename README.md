@@ -1,2 +1,17 @@
-# Automated-detection-of-COVID-19-cases-using-deep-neural-networks-with-CTS-images
-The use of advanced artificial intelligence (AI) techniques combined with radiological imaging can be useful for accurate diagnosis of the disease and can also help overcome the shortage of specialist physicians in remote villages. In this project, a new model for automatic detection of covid-19 using raw chest X-ray images is presented. The proposed model is designed to provide an accurate diagnosis for binary classification (COVID vs. pneumonia ) and multi-classification (covid, pneumonia, nodel, boronshit, normal).  Our model produces 99.08% classification accuracy for binary classifications and 95.02% for multi-class cases. The DarkNet model was used in our study as a classification where you only look at the real-time object recognition system once (YOLO(v3)). We applied 17 layers of the convolution and applied different filters on each layer. Our model can be used to help radiologists discredit their initial screening and can also be used over the cloud for rapid screening of patients.
+# Early-Detection-of-lung-cancer-using-machine-learning
+
+This project is aimed to find nodules in a 3d lung CT-scan and give each nodule a malignancy score between 0 to 4. 0 being not malignant at all and 4 being the most malignant. It used the luna dataset with 2 annatations. The <a href="https://luna16.grand-challenge.org/" >luna Dataset </a> annotations and the <a href="https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI" > LIDC IDRI </a> for the malignancy annotations. The problem had to be devided into two parts because this is a needle in a haystack problem it is not just a simple classification problem. 
+
+<h2> Pipline </h2>
+<img src="https://github.com/abdullahtarek/Early-Detection-of-lung-cancer-using-machine-learning/blob/master/Screenshot_2.png">
+</br>
+
+<h2> Skewed Data </h2>
+Incremental training was used in the Googlent model because the Data was skewed. The negatives was way more than the postives so for example I trained on 100 postives and a hundered negatives and then inrementally adding more and more negatives so that the model will not always predict a negative.
+
+<h2> Using LIDC IDRI anotations </h2>
+The LUNA data set is a subset from the LIDC dataset but no previous implementation used that. so using the id in the xml annotations it was found that the same IDs were used. The xml annotations had many features for each nodule but what is used in this project was the malignancy. The nodule positions was refrenced by an edge map and the centroid of the nodule was calculated to generate the training data.
+
+
+<h2> GUI </h2>
+<img src="https://github.com/abdullahtarek/Early-Detection-of-lung-cancer-using-machine-learning/blob/master/Screenshot_1.png"> 
