@@ -3,7 +3,7 @@
 This project is aimed to find nodules in a 3d lung CT-scan and give each nodule a malignancy score between 0 to 4. 0 being not malignant at all and 4 being the most malignant. It used the luna dataset with 2 annatations. The <a href="https://luna16.grand-challenge.org/" >luna Dataset </a> annotations and the <a href="https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI" > LIDC IDRI </a> for the malignancy annotations. The problem had to be devided into two parts because this is a needle in a haystack problem it is not just a simple classification problem. 
 
 <h2> Pipline </h2>
-<img src="https://github.com/abdullahtarek/Early-Detection-of-lung-cancer-using-machine-learning/blob/master/Screenshot_2.png">
+<img src="https://github.com/Jafar-Abdollahi/Automated-detection-of-COVID-19-cases-using-deep-neural-networks-with-CTS-images/blob/main/coronavirus-2.tmb-479v.jpg">
 </br>
 
 <h2> Skewed Data </h2>
