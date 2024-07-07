@@ -29,7 +29,7 @@ In this study, we have proposed several deep learning based model to detect and 
 
 
 
-<h2> Contatc me </h2>
+<h2> Contact me </h2>
 You can reach me at:
 
 Email: ja.abdollahi77@gmail.com
